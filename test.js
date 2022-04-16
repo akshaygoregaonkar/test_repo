@@ -4,3 +4,6 @@ const test =() =>console.log("Arrow function")
 function test_func(){
     console.log("hi")
 }
+function test_func1(){
+    console.log("hi")
+}
