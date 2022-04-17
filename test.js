@@ -8,3 +8,4 @@ function test_func1(){
     console.log("hi")
 }
 console.log("master")
+var test1=10
