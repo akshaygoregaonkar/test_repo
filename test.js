@@ -9,3 +9,4 @@ function test_func1(){
 }
 console.log("master")
 console.log("merging code")
+const my_list =[1,2,4,5,7]
