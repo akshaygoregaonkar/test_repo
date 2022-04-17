@@ -7,3 +7,4 @@ function test_func(){
 function test_func1(){
     console.log("hi")
 }
+console.log("master")
