@@ -5,3 +5,8 @@ function test_func(){
     console.log("hi")
 }
 console.log("testing")
+
+var obj ={
+    name:"Akshay",
+    last_name:"gore"
+}
