@@ -8,5 +8,6 @@ console.log("testing")
 
 var obj ={
     name:"Akshay",
-    last_name:"gore"
+    last_name:
+    "gore"
 }
